@@ -10,7 +10,7 @@
 Is a **free React landing page template designed** for developers/makers who want to create a quick and professional landing page for their open source projects, SaaS products, online services, and more.  
 
 ## Live demo
-Check the live demo here 👉️ [https://xenodochial-liskov-d5619e.netlify.app/](https://open.solrachix.com/)
+Check the live demo here 👉️ [https://solrachix-landpage.netlify.app/](https://open.solrachix.com/)
 
 ## Table of contents
 * [Usage](#usage)
